@@ -2,7 +2,7 @@
 
 ## [Exam AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/certifications/azure-fundamentals/)
 
-### Learning Paths
+### Learning Path
  
 - [Microsoft Azure Fundamentals: Describe cloud concepts](https://docs.microsoft.com/en-us/learn/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
   - Descripe Cloud Computing

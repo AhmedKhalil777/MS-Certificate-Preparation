@@ -1,20 +1,35 @@
 # MS-Certificate-Preparation
 
-## [Exam AZ-900: Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/certifications/azure-fundamentals/)
+## [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/certifications/azure-developer/)
 
 ### Learning Path
  
-- [Microsoft Azure Fundamentals: Describe cloud concepts](https://docs.microsoft.com/en-us/learn/paths/microsoft-azure-fundamentals-describe-cloud-concepts/)
-  - Descripe Cloud Computing
-  - Descripe the benefits of using cloud services 
-  - Descripe cloud services types
-- [Azure Fundamentals: Describe Azure architecture and services](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals-describe-azure-architecture-services/)
-  - Describe the core architectural components of Azure
-  - Describe Azure compute and networking services
-  - Describe Azure storage services
-  - Describe Azure identity, access, and security
-- [Azure Fundamentals: Describe Azure management and governance](https://docs.microsoft.com/en-us/learn/paths/describe-azure-management-governance/)
-  - Describe cost management in Azure
-  - Describe features and tools in Azure for governance and compliance
-  - Describe features and tools for managing and deploying Azure resources
-  - Describe monitoring tools in Azure
+- [AZ-204: Create Azure App Service web apps](https://docs.microsoft.com/en-us/learn/paths/create-azure-app-service-web-apps/) (2H 10 M)
+  - Explore Azure App Service (40 M)
+  - Configure web app settings (30 M)
+  - Scale apps in Azure App Service (30 M)
+  - Explore Azure App Service deployment slots (25 M)
+- [AZ-204: Implement Azure Functions](https://docs.microsoft.com/en-us/learn/paths/implement-azure-functions/) (1 H 30 M)
+  - Explore Azure Blob storage (35 M)
+  - Manage the Azure Blob storage lifecycle (25 M)
+  - Work with Azure Blob storage (35 M)
+- [AZ-204: Develop solutions that use Azure Cosmos DB](https://docs.microsoft.com/en-us/learn/paths/az-204-develop-solutions-that-use-azure-cosmos-db/) (1 H 30M)
+  - Explore Azure Cosmos DB (40 M)
+  - Implement partitioning in Azure Cosmos DB (20 M)
+  - Work with Azure Cosmos DB (30 M)
+- [AZ-204: Implement infrastructure as a service solutions](https://docs.microsoft.com/en-us/learn/paths/az-204-implement-iaas-solutions/) (2H 30M)
+  - Provision virtual machines in Azure (30 M)
+  - Create and deploy Azure Resource Manager templates (35 M)
+  - Manage container images in Azure Container Registry (35 M)
+  - Run container images in Azure Container Instances (35 M)
+- [AZ-204: Implement user authentication and authorization](https://docs.microsoft.com/en-us/learn/paths/az-204-implement-authentication-authorization/) (1H 40M)
+  - Explore the Microsoft identity platform (25 M)
+  - Implement authentication by using the Microsoft Authentication Library (25 M)
+  - Implement shared access signatures (20 M)
+  - Explore Microsoft Graph (25 M)
+- [AZ-204: Implement secure cloud solutions](https://docs.microsoft.com/en-us/learn/paths/az-204-implement-secure-cloud-solutions/) (1H 10M)
+  - Implement Azure Key Vault (25 M)
+  - Implement managed identities (25 M)
+  - Implement Azure App Configuration (25 M)
+- [AZ-204: Implement API Management](https://docs.microsoft.com/en-us/learn/paths/az-204-implement-api-management/)
+  - Explore API Management ()

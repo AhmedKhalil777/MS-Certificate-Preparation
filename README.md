@@ -4,7 +4,7 @@
 
 ## Azure Certification Dependencies
 
-![Dependencies](images\AzureCertificationsDependencies.PNG)
+![Dependencies](./images/AzureCertificationsDependencies.PNG)
 
 ## [Microsoft Certified: Azure Developer Associate](https://docs.microsoft.com/en-us/certifications/azure-developer/)
 

@@ -8,12 +8,12 @@
 ## Virtual Network Gateway
 
 - A VNet Gatway is composed from 2 or more virtual machines deployed to specific subnet => Gateway Subnet
-![](20221119194540.png)  
+![](Images/20221119194540.png)  
 
 
 > VPN Gateway is a specific type of Virtual network gateway used to send encrypted traffic between azure VNet and on-premises over public internet
 
-![](20221119195044.png)  
+![](Images/20221119195044.png)  
 
 
 ## Site to Site connection
@@ -23,7 +23,7 @@
 - A secure connection called __tunnel__ have encryption mechanism
 - On-Premises network with a complementary gateway that can accept encrypted data
 
-![](20221119195206.png)  
+![](Images/20221119195206.png)  
 
 
 If a VPN gateway connected with multi On-Premises network => MultiSite-connection
